@@ -10,7 +10,7 @@ There are no installations for this assignment.
 
 ## Usage
 
-![app](./assets/images/Deployedweb.jpg)
+![app](./Assets/images/Deployedweb.jpg)
 
 ## Links
 
