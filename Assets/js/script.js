@@ -12,6 +12,9 @@ getStore();
 
 currentDay.innerHTML = time.format("MMM D YYYY, h:mm A ");
 const hours = [
+  "6AM",
+  "7AM",
+  "8AM",
   "9AM",
   "10AM",
   "11AM",
@@ -25,7 +28,7 @@ const hours = [
 
 hours.forEach((hour, i) => {
   let cH = time.format("H");
-  let rH = i + 9;
+  let rH = i + 6;
 
   main.innerHTML += `
   <div id="hour-9" class="row time-block ${
