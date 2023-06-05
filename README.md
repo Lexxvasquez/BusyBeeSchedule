@@ -10,10 +10,12 @@ There are no installations for this assignment.
 
 ## Usage
 
-![app](./Assets/images/Deployedweb.jpg)
+![app](assets/images/DeployedWeb2.jpg)
 
 ## Links
 
 [deployed site](https://lexxvasquez.github.io/BusyBeeSchedule/)
 
 [Github](https://github.com/Lexxvasquez/BusyBeeSchedule)
+
+
