@@ -10,7 +10,7 @@ There are no installations for this assignment.
 
 ## Usage
 
-[Screenshot](DeployedWeb2-1.jpg)
+![Screenshot](DeployedWeb2-1.jpg)
 
 ## Links
 
